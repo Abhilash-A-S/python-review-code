@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from python-pr-review-fixture!")
+"""Intentional FastAPI PR-review stress fixture."""
